@@ -14,8 +14,7 @@ La solución planteada se basa en un enfoque científico y participativo, que co
 
 
 ```
-
-**Tecnologias utilizadas**
+*Tecnologias utilizadas*
 ```
 TensorFlow/Keras
 ```
@@ -26,10 +25,14 @@ modelo de aprendizaje profundo basado en VGG16 para clasificación de imágenes.
 **Integrantes proyecto**
 Trino Alejandro Carrisales Colmenares ##trinitocarrizo365@gmail.com
 ```
+```
 Eliezer Josué Ballestero Silva ##eliezerjosue26@gmail.com
+```
 ```
 Ivan Antonio lesmes ceballo ##ivanlesmes10@gmail.com
 ```
-Sergio De Los Santos ##sergiodelossantos5d@gmail.com
+```
+Sergio Andres De Los Santos Bonive ##sergiodelossantos5d@gmail.com
+```
 ```
 Jobciel Gabdiel Mendoza Cordero ##jobcielmendozacordero@gmail.com
